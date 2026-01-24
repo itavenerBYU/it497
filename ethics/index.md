@@ -20,3 +20,7 @@ However, when evaluated against ethical and professional standards in IT, the si
 This analysis shows that ethical considerations are not limited to clear violations or malicious behavior. Instead, they often emerge from routine decisions made under time constraints and service expectations. The absence of immediate harm does not eliminate ethical responsibility, particularly when actions have the potential to create long-term or systemic risk.
 
 In summary, this dilemma demonstrates that ethical challenges in IT frequently involve balancing competing priorities rather than choosing between right and wrong. Examining these situations encourages a more deliberate approach to everyday decisions and reinforces the importance of aligning service practices with professional ethics and long-term responsibility.
+
+---
+
+[Home](../index.markdown)

@@ -52,4 +52,6 @@ Obedient discipleship orders my other principles. It strengthens my commitment t
 - Personal journal reflections on repentance and growth
 - Ethical reflections related to policy adherence
 
+---
+
 [Home](../index.markdown)

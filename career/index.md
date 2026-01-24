@@ -17,4 +17,5 @@ The Identity Verification Framework was developed to bring consistency and clari
 Updating eToken security templates and enforcing new password requirements involved coordinating with several hundred members and guiding them through changes that were necessary but inconvenient. The technical work was straightforward; the human side was not. Members had varying levels of understanding, urgency, and frustration. This project taught me the value of patience and clarity in service. I learned that compliance achieved through coercion is fragile, while compliance built through explanation and respect is durable. The experience strengthened my appreciation for service as a disciplined effort to help others do difficult but important things, even when appreciation is not immediate.
 
 ---
+
 [Home](../index.markdown)

@@ -7,10 +7,9 @@ This portfolio documents my development as an IT professional, with a focus on s
 - [Guiding Principles](guiding_principles/index.md)
 - [Professional Overview](career/index.md)
 - [Ethics in IT](ethics/index.md)
+- [Reflections on Purpose, Work, and Responsibility](reflections/index.md)
 
 Practical IT projects and documentation
-
-Reflections on professionalism, stewardship, and service
 
 Evidence of learning and growth over time
 
