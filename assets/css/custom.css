@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 /* Base: mobile-first */
 .page-content,
 .wrapper,
