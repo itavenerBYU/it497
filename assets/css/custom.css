@@ -3,48 +3,39 @@
 
 @import "{{ site.theme }}";
 
-/* Base: mobile-first */
-.page-content,
-.wrapper,
-.container,
-.main-content,
-.site-content {
-    max-width: 100%;
-    padding-left: 1rem;
-    padding-right: 1rem;
+/* Mobile-first */
+#container {
+max-width: 100%;
+padding-left: 1rem;
+padding-right: 1rem;
+margin-left: auto;
+margin-right: auto;
 }
 
-/* Tablets and up */
+/* Tablets */
 @media (min-width: 768px) {
-    .page-content,
-    .wrapper,
-    .container,
-    .main-content,
-    .site-content {
-        max-width: 960px;
-        padding-left: 2rem;
-        padding-right: 2rem;
+    #container {
+    max-width: 960px;
+    padding-left: 2rem;
+    padding-right: 2rem;
     }
 }
 
-/* Desktops */
+/* Desktop */
 @media (min-width: 1024px) {
-    .page-content,
-    .wrapper,
-    .container,
-    .main-content,
-    .site-content {
-        max-width: 1100px;
+    #container {
+    max-width: 1200px;
     }
 }
 
 /* Large screens */
-@media (min-width: 1280px) {
-    .page-content,
-    .wrapper,
-    .container,
-    .main-content,
-    .site-content {
-        max-width: 1200px;
+@media (min-width: 1400px) {
+    #container {
+    max-width: 1300px;
     }
+}
+
+/* Safety: remove inner constraint if present */
+.inner {
+    max-width: 100%;
 }
