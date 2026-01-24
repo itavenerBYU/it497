@@ -37,7 +37,7 @@ plugins:
 
 defaults:
   - scope:
-      path:
+      path: ""
       type: pages
     values:
       layout: default
