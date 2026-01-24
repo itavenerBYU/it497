@@ -2,7 +2,7 @@
 
 These guiding principles reflect the values that shape my approach to work, service, and ethical decision-making. Informed by faith and experience, they provide a practical framework for how I manage responsibility, serve others, and pursue long-term professional growth.
 
-## Faithful Stewardship of Trust and Resources
+### Faithful Stewardship of Trust and Resources
 
 I believe that I am accountable to God and to others for how I manage what has been entrusted to me. This includes temporal resources such as finances and time, as well as intangible responsibilities such as access, authority, and trust.
 
@@ -18,7 +18,7 @@ This principle carries directly into my professional life. In my role as a Servi
 - Ethical dilemma analysis on password handling
 - Performance appraisal feedback related to responsibility and trust
 
-## Consecrated Service Through Compassionate Professionalism
+### Consecrated Service Through Compassionate Professionalism
 
 I view my work as an opportunity to serve, and I believe that professionalism is one of the primary ways compassion is expressed in environments that demand structure, accountability, and precision.
 
@@ -35,7 +35,7 @@ This principle explains why I value preparation, clear communication, and follow
 - Performance appraisal feedback
 - MobilePass+ training and documentation materials
 
-## Obedient Discipleship as the Source of Growth and Authority
+### Obedient Discipleship as the Source of Growth and Authority
 
 I have learned that obedience to God is the foundation of both my spiritual growth and my ability to lead and act ethically in professional settings.
 
