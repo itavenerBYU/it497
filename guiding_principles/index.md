@@ -4,7 +4,7 @@ These guiding principles reflect the values that shape my approach to work, serv
 
 ### Faithful Stewardship of Trust and Resources
 
-I believe that I am accountable to God and to others for how I manage what has been entrusted to me. This includes temporal resources such as finances and time, as well as intangible responsibilities such as access, authority, and trust.
+I believe that I am accountable for how I manage what has been entrusted to me. This includes temporal resources such as finances and time, as well as intangible responsibilities such as access, authority, and trust.
 
 Over time, my understanding of stewardship has matured significantly. I have come to see stewardship not simply as efficient management, but as a moral responsibility that requires restraint, foresight, and accountability. This perspective has influenced how I approach financial decisions, long-term planning, and the responsibilities I carry for my family. Stewardship, as I understand it, involves acting faithfully even when outcomes are uncertain, and making choices that prioritize stability, integrity, and the well-being of others over short-term convenience.
 
@@ -22,7 +22,7 @@ This principle carries directly into my professional life. In my role as a Servi
 
 I view my work as an opportunity to serve, and I believe that professionalism is one of the primary ways compassion is expressed in environments that demand structure, accountability, and precision.
 
-My understanding of service has changed significantly since joining the Church. Service is no longer something I associate with recognition or visibility. It is consecrated, often quiet, and focused on the well-being of others. In Church settings, this understanding has shaped how I speak, teach, and testify. In professional settings, it shapes how I interact with colleagues and those I support.
+My understanding of service has become more disciplined and deliberate. I no longer associate service with visibility or recognition, but with quiet consistency and a genuine focus on the well-being of others. This perspective has shaped how I communicate, how I listen, and how I approach responsibility. In professional settings, it guides how I interact with colleagues and those I support, emphasizing patience, respect, and thoughtful follow-through.
 
 In my daily work, I regularly assist individuals who feel frustrated, embarrassed, or overwhelmed by technical issues. I have learned that competence alone is not enough. How I respond, communicate, and preserve dignity matters just as much as resolving the issue itself. This principle has also guided my leadership in larger initiatives, such as training colleagues and supporting organization-wide technology changes. I strive to balance empathy with clarity, ensuring that service remains both compassionate and effective.
 

@@ -4,8 +4,8 @@ This portfolio documents my development as an IT professional, with a focus on s
 
 ### What’s Inside
 
-- [Guiding Principles](guiding_principles/index.md)
 - [Professional Overview](career/index.md)
+- [Guiding Principles](guiding_principles/index.md)
 - [Ethics in IT](ethics/index.md)
 - [Reflections on Purpose, Work, and Responsibility](reflections/index.md)
 
@@ -17,3 +17,5 @@ Evidence of learning and growth over time
 ### Engagement
 
 This portfolio is a work in progress. Thoughtful feedback is welcome, especially around ethical decision-making and secure support practices.
+
+---
