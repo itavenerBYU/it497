@@ -16,13 +16,9 @@ Living with this perspective has brought greater clarity and peace. It has also 
 
 This perspective has influenced how I think about waste, moderation, and restraint, both materially and professionally. Whether managing systems, responding to requests, or allocating time and effort, I have learned that good judgment often means choosing what is sufficient rather than excessive. Responsibilities entrusted to me, through professional roles or other callings, carry an expectation of integrity even when oversight is minimal. Acting ethically in those moments reinforces trust and strengthens my ability to be relied upon with greater responsibility.
 
-<br>
-
 **Professional communication** has become one of the primary ways I translate service into practice. While technical issues may appear similar, I have learned that the people experiencing them often bring different expectations, pressures, and levels of confidence. Recognizing this has changed how I approach communication. Rather than focusing only on resolving the issue, I try to understand the individual context in which the problem exists. This has made me more attentive to tone, pacing, and clarity, especially in situations involving frustration or uncertainty. Communication is no longer just an explanation of steps taken, but an opportunity to establish trust, set clear expectations, and preserve dignity.
 
 Over time, I have come to see that effective communication is one of the most visible expressions of professionalism. Preparing carefully, following through consistently, and adjusting how information is conveyed based on individual needs have strengthened my ability to support others without losing structure or accountability. When communication is handled thoughtfully, it reduces friction and allows solutions to be received with greater confidence and cooperation. Approaching communication in this way has helped me serve more effectively while maintaining the standards and responsibilities entrusted to me.
-
-<br>
 
 **Deliberate growth** has become central to how I understand responsibility and preparation. Placing greater emphasis on obedience has shifted how I approach learning, discipline, and long-term development. Rather than pursuing improvement only when it is immediately beneficial, I have learned to value patience, consistency, and intentional effort. Growth, in this sense, is not driven by urgency or comparison, but by a commitment to becoming more capable and trustworthy over time. This orientation has shaped how I approach education, feedback, and the steady development of skills needed to serve effectively.
 
