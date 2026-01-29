@@ -4,6 +4,8 @@ I am an IT professional with experience supporting large, security-sensitive env
 
 [Professional Resume](resume.md)
 
+---
+
 ## Professional Experience
 ***Note on confidentiality:***
 *Several projects in this section involve security-sensitive systems and user data. To uphold ethical and professional obligations, original internal documentation, system identifiers, and screenshots are not included.*
@@ -62,7 +64,7 @@ This project involved designing a Linux-based infrastructure to support FamilySe
 
 #### Integration of Technical Skills and Spiritual Growth
 
-This project required applying advanced technical skills in Linux system administration, automation, security architecture, access control, and operational design. Unlike conceptual design work, this effort emphasized discipline in execution and consistency over time, where small lapses can quietly undermine reliability or trust. Designing systems that must remain stable, secure, and recoverable reinforced the importance of restraint, order, and faithfulness in routine responsibilities. Much of the work focused on preventing failure rather than showcasing innovation, which required patience and a willingness to prioritize long-term integrity over short-term convenience. This experience deepened my understanding that service in a technical role often involves unseen, repetitive effort and careful judgment, carried out with the expectation that the work matters even when it is unnoticed. It strengthened my appreciation for responsibility as a sustained commitment to protect what has been entrusted, day after day.
+This project required applying advanced technical skills in Linux system administration, automation, security architecture, access control, and operational design. Unlike conceptual design work, this effort emphasized discipline in execution and consistency over time, where small lapses can quietly undermine reliability or trust. Designing systems that must remain stable, secure, and recoverable reinforced the importance of restraint, order, and faithfulness in routine responsibilities. Much of the work focused on preventing failure rather than showcasing innovation, which required patience and a willingness to prioritize integrity over convenience. This experience deepened my understanding that service in a technical role often involves unseen, repetitive effort and careful judgment, carried out with the expectation that the work matters even when it is unnoticed. It strengthened my appreciation for responsibility as a sustained commitment to protect what has been entrusted, day after day.
 
 ---
 
