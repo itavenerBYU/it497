@@ -34,6 +34,7 @@ This principle explains why I value preparation, clear communication, and follow
 - Daily work journal entries
 - Performance appraisal feedback
 - MobilePass+ training and documentation materials
+- President Nelson's talk: "Peacekeepers Needed"
 
 ### Obedient Discipleship as the Source of Growth and Authority
 
@@ -48,9 +49,10 @@ Obedient discipleship orders my other principles. It strengthens my commitment t
 **Initial materials aligned with this principle:**
 - Matthew 16:24–26
 - Song: “Breakdown” by Andrew Ripp
-- Sacrament meeting talk on trust and stillness
+- Sacrament meeting talk: "Fathers"
 - Personal journal reflections on repentance and growth
 - Ethical reflections related to policy adherence
+- Bishop Causse's talk: Compensating Blessings
 
 ---
 
