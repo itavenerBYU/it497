@@ -2,6 +2,8 @@
 
 ## on Purpose, Work, and Responsibility
 
+*Week 3:* 
+
 As I have slowed down and paid closer attention to the commitments that shape my life, I have noticed how much they influence the way I work. When those commitments are clear, effort no longer feels forced or performative. It becomes steadier. I find myself working not to prove something or keep pace, but to be consistent with responsibilities I have already accepted. That shift has brought a sense of calm and direction that I did not always have.
 
 I used to think of family, faith, and professional life as separate areas that needed to be balanced against one another. Over time, that distinction has softened. The discipline required to be reliable at work strengthens the discipline I try to live by at home. The patience learned through service shows up in professional judgment. When those parts of life are aligned, work feels less fragmented and more intentional, and decisions are shaped by long-term responsibility rather than short-term pressure.
@@ -11,6 +13,8 @@ This way of thinking has changed how I respond when things do not go as planned.
 Living with this perspective has brought greater clarity and peace. It has also sharpened my understanding of growth. Progress is not only advancement, but the ability to be trusted with greater responsibility over time. That understanding continues to shape how I prepare myself for deeper service and leadership.
 
 ## on Competence Guided by Principle
+
+*Week 4:* 
 
 **Ethical judgment**, for me, grows out of stewardship. I am trusted to make decisions that affect time, resources, and responsibilities that do not belong solely to me. That trust shapes how I weigh options and resist convenience when it comes at the expense of long-term value. It is often easier to choose the fastest solution or the most immediately satisfying outcome, especially when no direct consequence would fall on me personally. Stewardship requires a different posture. It asks whether a choice is careful rather than expedient, whether resources are being respected rather than consumed, and whether the decision preserves trust over time.
 
@@ -23,6 +27,20 @@ Over time, I have come to see that effective communication is one of the most vi
 **Deliberate growth** has become central to how I understand responsibility and preparation. Placing greater emphasis on obedience has shifted how I approach learning, discipline, and long-term development. Rather than pursuing improvement only when it is immediately beneficial, I have learned to value patience, consistency, and intentional effort as a response to responsibilities that are entrusted rather than self-assigned. Growth, in this sense, is not driven by urgency or comparison, but by a commitment to becoming more capable and trustworthy in the roles I am asked to fulfill. This orientation has shaped how I approach education, feedback, and the steady development of skills needed to serve effectively.
 
 I have come to view learning as an enduring responsibility rather than a temporary phase. Knowledge and judgment are resources that must be cultivated carefully, as neglect limits my ability to act responsibly on behalf of others. Choosing to continue learning reflects a willingness to acknowledge limits, accept correction, and prepare more fully for responsibilities placed in my care. In contrast, stagnation signals a refusal to grow into entrusted responsibility. Approaching growth in this way has reinforced my understanding that readiness for authority and leadership is developed gradually through discipline, submission to guidance, and sustained effort, and that meaningful service depends on a continued commitment to becoming better equipped over time.
+
+## on Alignment, Discernment, and Recalibration
+
+*Week 5:* 
+
+As I reflect on my professional and spiritual development, I have come to see that effort and ambition, while valuable, are not sufficient on their own. I am naturally inclined to think ahead, to prepare for what comes next, and to measure progress by movement toward future responsibilities. That forward orientation has helped me grow, but it has also shown me the need for regular recalibration. Without it, effort can become disconnected from the work directly in front of me.
+
+One personal warning sign I have learned to recognize is a shift in how I measure success. When my attention begins to settle more on timing, opportunity, or comparison than on the quality of my current service, something is out of alignment. The work itself continues, but my internal posture requires correction. I become more aware of how easily patience and gratitude can be displaced if I am not careful about where I place my attention. Recognizing this pattern early has been essential in integrating Christlike attributes more consistently into my daily work.
+
+Recalibration has therefore become a deliberate practice for me, not as a reaction to failure, but as a form of refinement. When I notice restlessness or frustration shaping my perspective, I pause and reassess where my effort is being aimed. Rather than pushing harder or looking further ahead, I return my focus to serving well where I presently am. This has helped me replace a mindset of advancement with one of stewardship, where faithfulness in present responsibilities takes priority over anticipation of future ones.
+
+This practice has strengthened several Christlike attributes in tangible ways. Humility shows up in accepting that preparation often looks ordinary and unseen. Patience is exercised by trusting that growth unfolds through consistency rather than acceleration. Charity becomes visible in how I engage with colleagues, choosing cooperation and respect even when personal expectations are not being met. These attributes are reinforced not through dramatic change, but through repeated, quiet course correction.
+
+As I reviewed my portfolio with this perspective in mind, I noticed a clearer thread connecting its components. Across technical projects, ethical reflections, and communication practices, the same principle applies: responsibility precedes recognition, and sound judgment matters more than momentum. This reflection has helped me see that alignment is not something achieved once, but something maintained over time. Carrying that awareness forward will continue to guide how I serve, prepare, and grow with integrity.
 
 ---
 

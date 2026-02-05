@@ -10,7 +10,7 @@ Over time, my understanding of stewardship has matured significantly. I have com
 
 This principle carries directly into my professional life. In my role as a Service Desk Technician, I am entrusted with sensitive systems, user identities, and access that could easily be misused if handled carelessly. Whether I am implementing security controls or responding to requests for technical assistance, I am constantly reminded that my role is fundamentally about stewardship. Accepting shortcuts may resolve immediate issues, but it can weaken trust and undermine long-term security culture. My commitment to faithful stewardship shapes how I approach ethical decisions, even when doing so requires additional effort or causes inconvenience.
 
-**Initial materials aligned with this principle:**
+**Materials aligned with this principle:**
 - Alma 37:6
 - Personal journal entries on finances, tithing, and responsibility
 - Multifactor ID Framework internship deliverables
@@ -28,7 +28,7 @@ In my daily work, I regularly assist individuals who feel frustrated, embarrasse
 
 This principle explains why I value preparation, clear communication, and follow-through. Compassion without professionalism can become enabling. Professionalism without compassion can become impersonal. I seek to hold both together in my work and service.
 
-**Initial materials aligned with this principle:**
+**Materials aligned with this principle:**
 - Sacrament meeting talk: “Be Still and Know That I Am God”
 - Stake Conference testimony
 - Daily work journal entries
@@ -46,7 +46,7 @@ This principle shapes how I respond to correction, how I adhere to ethical and o
 
 Obedient discipleship orders my other principles. It strengthens my commitment to stewardship and gives purpose to my service, ensuring that both remain aligned with enduring values rather than momentary pressures.
 
-**Initial materials aligned with this principle:**
+**Materials aligned with this principle:**
 - Matthew 16:24–26
 - Song: “Breakdown” by Andrew Ripp
 - Sacrament meeting talk: "Fathers"
