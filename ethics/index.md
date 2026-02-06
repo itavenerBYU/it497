@@ -33,6 +33,16 @@ An alternative approach that aligns with these principles would involve declinin
 
 This approach better balances the needs of all parties. Users remain informed and respected, technicians maintain professional integrity, and the organization benefits from consistent, defensible practices that reduce long-term risk.
 
+### Reflection and Future Application
+
+Reflecting on this ethical dilemma has clarified for me how easily ethical challenges can emerge from ordinary service interactions. Situations like this do not arise from poor intent or disregard for security, but from competing priorities such as efficiency, user satisfaction, and time constraints. This exercise reinforced that ethical decision-making in IT is often subtle and situational rather than obvious or dramatic.
+
+Through examining this dilemma, I have come to better appreciate how everyday choices can shape security culture over time. Actions that seem reasonable in isolation can still contribute to broader risks if they become routine or go unquestioned. This realization has helped me recognize the importance of pausing to consider not only what is technically possible, but what is ethically sound and professionally responsible.
+
+In my future work, I intend to approach similar situations by grounding my decisions in the principles of respect for users, professional integrity, and stewardship. Respect for users will guide me to communicate clearly and thoughtfully, ensuring that decisions are explained rather than imposed. Professional integrity will remind me to align my actions with best practices even when shortcuts appear harmless. Stewardship will keep my focus on long-term trust, accountability, and the responsibilities that come with administrative access.
+
+This exercise has strengthened my understanding that ethical challenges in IT are rarely about assigning blame. Instead, they require awareness, humility, and a willingness to act intentionally under pressure. Developing this mindset will help me navigate future ethical dilemmas with greater confidence, consistency, and care, ensuring that my technical work remains aligned with both professional standards and personal values.
+
 ---
 
 [Home](../index.markdown)
