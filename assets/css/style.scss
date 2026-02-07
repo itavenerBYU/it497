@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Header: remove the image and set a solid professional color */
+/* Kill Leap Day's header background image + blue */
+header {
+  background-image: none !important;
+  background: #1c1f26 !important; /* charcoal */
+}
+
+/* Sometimes the image is applied to a nested wrapper too */
+header .inner {
+  background-image: none !important;
+  background: transparent !important;
+}
+#header {
+  background-image: none !important;
+  background: #1c1f26 !important; /* charcoal */
+}
+
+/* If the theme applies the background to an inner wrapper instead */
+#header .inner {
+  background-image: none !important;
+}
+
+/* Banner: remove the yellow border/shadow and set your own */
+#banner {
+  background: #2b313a !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* The yellow line is often a border on an inner element */
+#banner .inner {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Button: remove yellow outline/shadow if it has one */
+#banner .button {
+  background: #3a5f7d !important;
+  color: #f5f7fa !important;
+  border: 1px solid rgba(245,247,250,0.18) !important;
+  box-shadow: none !important;
+}
+
+#banner .button:hover {
+  background: #2f506a !important;
+}

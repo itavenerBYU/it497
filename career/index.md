@@ -10,7 +10,7 @@ I am an IT professional with experience supporting large, security-sensitive env
 ***Note on confidentiality:***
 *Several projects in this section involve security-sensitive systems and user data. To uphold ethical and professional obligations, original internal documentation, system identifiers, and screenshots are not included.*
 
-### MobilePass+ MFA Enrollment & Service Desk Enablement
+### 1. MobilePass+ MFA Enrollment
 
 #### Project Overview
 
@@ -20,7 +20,7 @@ I led the Service Desk enablement and enrollment oversight for a MobilePass+ mul
 
 This project required applying technical skills related to MFA enrollment lifecycle management, Service Desk workflow design, documentation, and large-scale enrollment data analysis. Implementing multi-factor authentication at scale introduced disruption for many users, and resolving enrollment gaps required sustained communication, follow-through, and adaptability. Working through these challenges helped me better understand service as an active commitment to support others through change, not just a technical deliverable to be completed. Addressing missed enrollments reinforced the importance of responsiveness, clear communication, and personal responsibility when technical decisions affect large groups. Through this experience, I grew in my understanding that service in technology often means meeting people where they are, guiding them through unfamiliar processes, and remaining accountable long after initial implementation is complete.
 
-###  Identity Verification Framework
+###  2. Identity Verification Framework
 
 #### Project Overview
 
@@ -30,7 +30,7 @@ I led the development of the Identity Verification Framework to bring consistenc
 
 Leading the Identity Verification Framework required applying concrete technical skills, including requirements analysis, decision-model design, procedural documentation, and judgment-based escalation handling during live support interactions. Translating policy into an operational framework forced me to think carefully about how rules are applied to individuals in moments of stress or urgency. As I worked through edge cases and real support scenarios, I learned that consistency and security must be balanced with patience and fairness. This project deepened my understanding of care and service in a technical role. Protecting systems is inseparable from protecting people, and exercising administrative authority well requires humility, restraint, and an intentional focus on serving others rather than simply enforcing controls.
 
-### eToken Security Template Update & Password Compliance Initiative
+### 3. eToken Security Template Update
 
 #### Project Overview
 
@@ -44,7 +44,7 @@ This project required applying technical skills related to security template upd
 
 ## Applied Systems Projects
 
-### Cortex-A72 Smart Home Hub Architecture
+### 1. Cortex-A72 Smart Home Hub Architecture
 
 #### Project Overview
 
@@ -56,7 +56,7 @@ This project involved designing a smart home monitoring hub built around a low-p
 
 This project required applying technical skills in computer architecture, embedded system design, abstraction modeling, and security-aware planning. Designing the system before any implementation forced me to confront how much responsibility exists at the design stage, where assumptions are made without the feedback of real users or operational constraints. Working through each abstraction layer highlighted the need for humility and care in technical decision-making, recognizing that early architectural choices can quietly shape security, privacy, and usability long after the system is built. This experience helped me reflect on patience and restraint as forms of growth, particularly the discipline of thinking through consequences rather than optimizing only for capability or novelty. It reinforced the idea that good technical work begins with careful judgment, an awareness of impact, and a willingness to prioritize long-term goals.
 
-### Heritage Vault 2.0 - Linux System Design
+### 2. Heritage Vault 2.0 - Linux System Design
 
 #### Project Overview
 

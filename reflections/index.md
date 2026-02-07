@@ -1,6 +1,6 @@
-# Reflections
+# Reflections on...
 
-## on Purpose, Work, and Responsibility
+## 1. Purpose, Work, and Responsibility
 
 *Week 3:* 
 
@@ -12,7 +12,7 @@ This way of thinking has changed how I respond when things do not go as planned.
 
 Living with this perspective has brought greater clarity and peace. It has also sharpened my understanding of growth. Progress is not only advancement, but the ability to be trusted with greater responsibility over time. That understanding continues to shape how I prepare myself for deeper service and leadership.
 
-## on Competence Guided by Principle
+## 2. Competence Guided by Principle
 
 *Week 4:* 
 
@@ -28,7 +28,7 @@ Over time, I have come to see that effective communication is one of the most vi
 
 I have come to view learning as an enduring responsibility rather than a temporary phase. Knowledge and judgment are resources that must be cultivated carefully, as neglect limits my ability to act responsibly on behalf of others. Choosing to continue learning reflects a willingness to acknowledge limits, accept correction, and prepare more fully for responsibilities placed in my care. In contrast, stagnation signals a refusal to grow into entrusted responsibility. Approaching growth in this way has reinforced my understanding that readiness for authority and leadership is developed gradually through discipline, submission to guidance, and sustained effort, and that meaningful service depends on a continued commitment to becoming better equipped over time.
 
-## on Alignment, Discernment, and Recalibration
+## 3. Alignment, Discernment, and Recalibration
 
 *Week 5:* 
 
