@@ -39,7 +39,7 @@ I updated eToken security templates and supported the rollout of new password co
 #### Integration of Technical Skills and Spiritual Growth
 
 This project required applying technical skills related to security template updates, password policy enforcement, service desk communication, and large-scale user coordination. Enforcing updated password requirements across several hundred members highlighted how even routine security changes can create confusion, resistance, and frustration when they interrupt established habits. Supporting members through these changes required clear written guidance, patient follow-up, and consistent messaging, especially when urgency and understanding varied widely. Working through this effort reinforced my understanding that effective security depends as much on communication and trust as on technical correctness. I learned that compliance driven by pressure is often temporary, while compliance built through explanation and respect is more sustainable. This experience broadened my view of stewardship in a technical role by emphasizing restraint, accountability, and a willingness to support others through necessary but inconvenient changes, even when the work is repetitive and appreciation is limited.
-
+##
 ---
 
 ## Applied Systems Projects
@@ -47,8 +47,6 @@ This project required applying technical skills related to security template upd
 ### 1. Cortex-A72 Smart Home Hub Architecture
 
 #### Project Overview
-
-
 
 This project involved designing a smart home monitoring hub built around a low-power ARM Cortex-A72 CPU. The design outlined the system across four abstraction layers, from hardware through user interaction, to demonstrate how architectural decisions support performance, energy efficiency, and security in an always-on environment. The solution integrated multiple wireless protocols, including WiFi, Bluetooth, and Zigbee, and used FreeRTOS to provide deterministic response for real-time device control. OpenHAB served as the application layer, enabling centralized automation, third-party integration, and secure user interaction through mobile devices and voice assistants. The paper analyzed system cohesion through concrete workflows, such as adjusting a thermostat schedule and processing a doorbell event, to show how signals move reliably through each layer of the architecture. *[Open the PDF](computer-architecture_ian-tavener.pdf)*
 

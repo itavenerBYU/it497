@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IT497 Capstone
+title: Ian Tavener – IT497 Portfolio
 email: itavener@byupathway.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site documents my academic work, technical projects, and professional development in information technology.

@@ -42,6 +42,20 @@ This practice has strengthened several Christlike attributes in tangible ways. H
 
 As I reviewed my portfolio with this perspective in mind, I noticed a clearer thread connecting its components. Across technical projects, ethical reflections, and communication practices, the same principle applies: responsibility precedes recognition, and sound judgment matters more than momentum. This reflection has helped me see that alignment is not something achieved once, but something maintained over time. Carrying that awareness forward will continue to guide how I serve, prepare, and grow with integrity.
 
+## 4. Spiritual–Professional Integration
+
+*Week 5:* 
+
+When I consider how faith and professional life integrate, I no longer see them as parallel tracks that occasionally intersect. I understand them as a flow. Spiritual beliefs define what I value, and professional practices are the means by which those values are expressed in the world. My beliefs shape what I notice, what I prioritize, and how I choose to act when responsibility is placed in my care.
+
+Christ’s teachings give that structure clarity. Loving God is not limited to inward conviction or personal feeling. It includes outward faithfulness expressed through obedience, discipline, and care in how I live. That love becomes visible in how I honor commitments, respect limits, and treat entrusted responsibilities with seriousness rather than convenience. In this sense, professional diligence becomes a form of lived belief. How I work reflects what I revere.
+
+Loving my neighbor, I have learned, also extends beyond goodwill. It requires service that is not seen and not asked for. In my work, I am often given a specific task to complete. I can resolve the issue efficiently, leave the interaction on a positive note, and know the immediate request has been satisfied. At times, however, I notice an unrelated issue that has not yet caused a problem. I know that addressing it now will prevent difficulty later, even though the person I am helping may never realize. Choosing to act in those moments has taught me that service is not only about aiming to please, but about using knowledge and skill for someone else’s benefit, even when recognition is unlikely.
+
+As my faith deepens, my understanding of these two commandments becomes more practical. Greater spiritual awareness sharpens discernment. It clarifies where effort is best placed and where restraint is required. That awareness improves my ability to serve effectively, because service becomes guided rather than reactive. Growth in belief strengthens my capacity for meaningful action.
+
+Viewed this way, integration is not about adding religious language to professional work, nor about separating faith from responsibility. It is about alignment. Belief informs values. Values shape conduct. Conduct becomes service. Over time, that cycle reinforces itself. The more intentionally I live my beliefs, the more capable I become of serving others with consistency, integrity, and care. This understanding continues to guide how I prepare for responsibility and how I measure what it means to work well.
+
 ---
 
 [Home](../index.markdown)
