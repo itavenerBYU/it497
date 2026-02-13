@@ -56,7 +56,7 @@ As my faith deepens, my understanding of these two commandments becomes more pra
 
 Viewed this way, integration is not about adding religious language to professional work, nor about separating faith from responsibility. It is about alignment. Belief informs values. Values shape conduct. Conduct becomes service. Over time, that cycle reinforces itself. The more intentionally I live my beliefs, the more capable I become of serving others with consistency, integrity, and care. This understanding continues to guide how I prepare for responsibility and how I measure what it means to work well.
 
-## 5. Journey, Application, and Future Use
+## 5. My Journey, Application, and Future Use
 
 *Week 6:*
 

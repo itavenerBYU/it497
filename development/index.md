@@ -1,4 +1,4 @@
-# Growth and a Focused Path Forward
+# Ongoing Development
 
 This course has given me language for something I previously felt but had not clearly defined. My faith does not operate separately from my work. It shapes how I respond to pressure, how I treat colleagues, and how I carry responsibility. The more intentional I become spiritually, the more stable and consistent I become professionally.
 
