@@ -1,7 +1,7 @@
 # Ethics of Access in IT Support
 A reflective case study on access, responsibility, and service expectations
 
-### Dilemma Identification
+### 1. Dilemma Identification
 
 In IT support roles, there are situations where technicians may need to work on user devices for issues that take a significant amount of time to resolve. In a representative scenario, a user requests assistance but is unable or unwilling to remain present while the work is being completed. This creates a question about how access should be handled so work can continue without unnecessary delays.
 
@@ -11,7 +11,7 @@ The ethical dilemma arises from balancing service efficiency and user convenienc
 
 In hypothetical situations like this, an initial response might prioritize completing the work efficiently to meet service expectations. While such an approach may appear practical in the short term, it raises broader ethical questions about how routine decisions can affect security practices over time.
 
-### Analysis and Findings
+### 2. Analysis and Findings
 
 Analyzing this type of scenario highlights the complexity of ethical decision-making in IT support roles. The primary pressure comes from the desire to provide timely, effective service while minimizing disruption for users. From a practical perspective, administrative access already exists, and the intent behind prioritizing efficiency is generally aligned with helping users and maintaining productivity.
 
@@ -21,7 +21,7 @@ This analysis shows that ethical considerations are not limited to clear violati
 
 In summary, this dilemma demonstrates that ethical challenges in IT frequently involve balancing competing priorities rather than choosing between right and wrong. Examining these situations encourages a more deliberate approach to everyday decisions and reinforces the importance of aligning service practices with professional ethics and long-term responsibility.
 
-### Principles and Alternative Approach
+### 3. Principles and Alternative Approach
 
 Several ethical principles are central to evaluating this dilemma and identifying a more appropriate way to handle similar situations. The first is ***respect for users***, which is especially important in service-oriented roles. Respect involves acknowledging users’ time constraints and productivity needs while also recognizing that users may not fully understand the security risks associated with certain requests. Ethical service means helping users efficiently without encouraging behaviors that could expose them to future harm.
 
@@ -33,7 +33,7 @@ An alternative approach that aligns with these principles would involve declinin
 
 This approach better balances the needs of all parties. Users remain informed and respected, technicians maintain professional integrity, and the organization benefits from consistent, defensible practices that reduce long-term risk.
 
-### Reflection and Future Application
+### 4. Reflection and Future Application
 
 Reflecting on this ethical dilemma has clarified for me how easily ethical challenges can emerge from ordinary service interactions. Situations like this do not arise from poor intent or disregard for security, but from competing priorities such as efficiency, user satisfaction, and time constraints. This exercise reinforced that ethical decision-making in IT is often subtle and situational rather than obvious or dramatic.
 

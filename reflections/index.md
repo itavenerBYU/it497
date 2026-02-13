@@ -56,6 +56,26 @@ As my faith deepens, my understanding of these two commandments becomes more pra
 
 Viewed this way, integration is not about adding religious language to professional work, nor about separating faith from responsibility. It is about alignment. Belief informs values. Values shape conduct. Conduct becomes service. Over time, that cycle reinforces itself. The more intentionally I live my beliefs, the more capable I become of serving others with consistency, integrity, and care. This understanding continues to guide how I prepare for responsibility and how I measure what it means to work well.
 
+## 5. Journey, Application, and Future Use
+
+*Week 6:*
+
+Compiling this portfolio required me to slow down in a way I do not naturally choose. I usually measure growth by momentum and preparation for what comes next. This process required examination.
+
+At the outset, my goals were concrete. I wanted to better articulate how I live out the core values of my organization. I wanted to prepare intentionally for a potential advancement opportunity. I wanted to think more carefully about a recurring ethical tension in my daily work. Each goal was practical and immediate.
+
+As I reviewed my work across the weeks, I noticed the same principles appearing in different contexts. Stewardship shaped how I handled entrusted systems. Charity shaped how I communicated. Recalibration shaped how I examined ambition. My goals did not disappear, but they matured.
+
+One clear example is the habit of addressing issues that were not explicitly assigned. In daily service interactions, I often receive a defined request. Completing it would be sufficient. At times, I noticed an unrelated configuration risk and chose to resolve it. Writing about those moments clarified that this is not simply thoroughness. It reflects the same values I set out to document in my daily work journal. Compassion, professionalism, and respect expressed through accepting responsibility.
+
+My second goal, preparing for advancement, is where I see the most growth. Initially, I approached it with a focus on positioning and readiness. Through this course, I realized that mindset was incomplete. The better question is not how to reach the next role, but whether my present conduct justifies greater responsibility. That reframing has grounded my ambition. Advancement is no longer something to pursue ahead of alignment. It is something that should follow it.
+
+Examining ethical tensions in my role reinforced this shift. Rather than relying on instinct or convenience, I committed to structured evaluation, input from others, and principled reasoning. Integrity became less about avoiding obvious error and more about protecting what has been entrusted, even when doing so requires restraint.
+
+Across these areas, I have become more attentive to small decisions. Managing systems, handling information, and communicating under pressure affect others in ways they may never see. Integrity requires consistent alignment between belief and conduct.
+
+The most meaningful change has been internal. I see my work less as a ladder and more as an expression of my faith. My original goals remain, but they now rest on a clearer foundation. Recording these reflections has made that shift visible and has given me a standard against which future growth can be measured.
+
 ---
 
 [Home](../index.markdown)
