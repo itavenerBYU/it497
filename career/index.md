@@ -20,7 +20,7 @@ I led the Service Desk enablement and enrollment oversight for a MobilePass+ mul
 
 This project required applying technical skills related to MFA enrollment lifecycle management, Service Desk workflow design, documentation, and large-scale enrollment data analysis. Implementing multi-factor authentication at scale introduced disruption for many users, and resolving enrollment gaps required sustained communication, follow-through, and adaptability. Working through these challenges helped me better understand service as an active commitment to support others through change, not just a technical deliverable to be completed. Addressing missed enrollments reinforced the importance of responsiveness, clear communication, and personal responsibility when technical decisions affect large groups. Through this experience, I grew in my understanding that service in technology often means meeting people where they are, guiding them through unfamiliar processes, and remaining accountable long after initial implementation is complete.
 
-###  2. Identity Verification Framework
+### 2. Identity Verification Framework
 
 #### Project Overview
 
@@ -39,7 +39,7 @@ I updated eToken security templates and supported the rollout of new password co
 #### Integration of Technical Skills and Spiritual Growth
 
 This project required applying technical skills related to security template updates, password policy enforcement, service desk communication, and large-scale user coordination. Enforcing updated password requirements across several hundred members highlighted how even routine security changes can create confusion, resistance, and frustration when they interrupt established habits. Supporting members through these changes required clear written guidance, patient follow-up, and consistent messaging, especially when urgency and understanding varied widely. Working through this effort reinforced my understanding that effective security depends as much on communication and trust as on technical correctness. I learned that compliance driven by pressure is often temporary, while compliance built through explanation and respect is more sustainable. This experience broadened my view of stewardship in a technical role by emphasizing restraint, accountability, and a willingness to support others through necessary but inconvenient changes, even when the work is repetitive and appreciation is limited.
-##
+
 ---
 
 ## Applied Systems Projects
